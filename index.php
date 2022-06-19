@@ -12,6 +12,20 @@ Coded by www.creative-tim.com
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 -->
+<!--
+=========================================================
+* PHP TWITTER SENTIMENT ANALYSIS   v0.0.1
+=========================================================
+
+
+* Copyright 2021 Gundo San Sifhufhi (https://gundo.ml)
+
+Build by Gundo Sifhufhi
+
+ =========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-->
 <!DOCTYPE html>
 <html lang="en">
 
